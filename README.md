@@ -12,7 +12,7 @@
 <a href="www.linkedin.com/in/priya-dagar-64b775286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priya dagar" height="30" width="40" /></a>
 <a href="https://instagram.com/priya.dagar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priya.dagar_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@priyadagar_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="priya dagar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Priya Dagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priya dagar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Priya_Dagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priya dagar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
