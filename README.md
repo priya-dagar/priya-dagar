@@ -19,4 +19,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priya-dagar&show_icons=true&locale=en&layout=compact" alt="priya-dagar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priya-dagar&show_icons=true&locale=en" alt="priya-dagar" /></p>
